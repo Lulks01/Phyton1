@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "terminal.explorerKind": "integrated",
+    "terminal.integrated.fontSize": 18,
+    "terminal.integrated.fontWeight": "normal",
+    "terminal.integrated.lineHeight": 1,
+    "terminal.integrated.minimumContrastRatio": 7,
+    "terminal.integrated.profiles.windows": {
+        "Git Bash": {
+            "source": "Git Bash"
+        }
+    },
+    "python.analysis.typeCheckingMode": "off"
+}
